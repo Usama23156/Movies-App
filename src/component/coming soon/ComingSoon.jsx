@@ -21,7 +21,7 @@ export default function ComingSoon() {
       
         <div className="box">
           <div className="box-img w-full h-[270px]">
-            <img className="hover:-translate-y-2.5 w-full h-full object-cover cursor-pointer transition-[0.2s] duration-[all] ease-linear" src={coming1}/>
+            <img className="hover:-translate-y-2.5 sm:h-60 w-full h-full object-cover cursor-pointer transition-[0.2s] duration-[all] ease-linear" src={coming1}/>
           </div>
           <h3 className="text-[0.9rem] font-medium text-[color:var(--main-color)]">Joney English</h3>
           <span className="text-[13px]">80min | Comedy</span>
